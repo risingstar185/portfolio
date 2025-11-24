@@ -49,7 +49,7 @@ import npmLogo from './assets/work_logo/whatsapp.png';
 import webverLogo from './assets/work_logo/netflix.png';
 import imagesearchLogo from './assets/work_logo/image_search.png';
 import removebgLogo from './assets/work_logo/chat.png'
-import oneCart from './assets/work_logo/onecart.png'
+import oneCart from './assets/work_logo/oneCart.png'
 
 //review image 
 
